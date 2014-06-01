@@ -1,0 +1,25 @@
+{
+  "name": "co-blocked",
+  "version": "0.0.0",
+  "description": "Check if the event loop is blocked",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/madbence/co-blocked"
+  },
+  "keywords": [
+    "block",
+    "event",
+    "performance",
+    "co"
+  ],
+  "author": "Bence Dányi <madbence@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madbence/co-blocked/issues"
+  },
+  "homepage": "https://github.com/madbence/co-blocked",
+  "devDependencies": {
+    "co": "^3.0.6"
+  }
+}
